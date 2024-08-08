@@ -19,5 +19,5 @@ The copyright owner reserves the right of final explanation for any use case not
 
 ## Credits
 
-- The Vue logo and the Vue badge are designed by @yyx990803
-- The Vue kawaii logo (logo-uwu.png) is designed by @icarusgk
+- The Vue logo and the Vue badge are designed by [@yyx990803](https://github.com/yyx990803).
+- The Vue kawaii logo (logo-uwu.png) is designed by [@icarusgk](https://github.com/icarusgk).
